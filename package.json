@@ -1,0 +1,19 @@
+{
+  "name": "winter2020code",
+  "version": "1.0.0",
+  "description": "",
+  "main": "middle.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amitdhankhar1/jobsearchproject.git"
+  },
+  "author": "amit",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amitdhankhar1/jobsearchproject/issues"
+  },
+  "homepage": "https://github.com/amitdhankhar1/jobsearchproject#readme"
+}

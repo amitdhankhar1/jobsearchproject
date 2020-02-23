@@ -1,3 +1,8 @@
+#img1{
+       height: 60px;
+       width: 60px;
+       color: RED;
+
 #box1:hover{background-color: #f5a85b; }
 #box2:hover{background-color: #f5a85b;}
 #box3:hover{background-color: #f5a85b;}
